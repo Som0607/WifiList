@@ -1,0 +1,3 @@
+﻿  WifiList.cpp
+C:\Projects\CyberSecurity\Code\WifiList\WifiList\WifiList.cpp(123,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'WLAN_RATE_SET'
+  WifiList.vcxproj -> C:\Projects\CyberSecurity\Code\WifiList\x64\Debug\WifiList.exe
